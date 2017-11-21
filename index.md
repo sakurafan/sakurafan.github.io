@@ -1,4 +1,4 @@
-# LIAO Danping's Personal Homepage
+# Danping Liao's Personal Homepage
 
 ## introduction
 
