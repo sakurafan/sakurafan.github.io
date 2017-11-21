@@ -1,3 +1,5 @@
+<img src="imgs/moraine_lake.png" width="100%">
+
 # Danping Liao's Personal Homepage
 
 ## Introduction
