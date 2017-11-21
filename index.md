@@ -1,6 +1,6 @@
 # Danping Liao's Personal Homepage
 
-## introduction
+## Introduction
 
 This page contains some of my publication implementations. 
 All the codes are released under MIT license, which means:
