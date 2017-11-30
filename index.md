@@ -1,4 +1,4 @@
-<img src="imgs/moraine_lake.jpg" width="100%">
+<img src="imgs/pic1.jpg" width="30%">
 
 # Danping Liao's Personal Homepage
 
