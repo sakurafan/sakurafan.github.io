@@ -2,9 +2,15 @@
 
 # Danping Liao's Personal Homepage
 
-## Introduction
+## About me
 
-This page contains some of my publication implementations. 
+1. Ph.D. student, Computing Intelligence Lab, Zhejiang University (ZJU), China. Supervised by Prof. Yuntao Qian. My research interests includes computer vision and machine learning.
+1. Visiting researcher in VML lab,  Simon Fraser University, Canada.  Advised by Prof. Ze-Nian Li.  
+1. B. Eng degree from Nankai University, China.
+
+## Github Webpage
+
+My github webpage contains some of the  implementations of my publications. 
 All the codes are released under MIT license, which means:
 
 1. You may copy, clone or use my code even for commercial use.
