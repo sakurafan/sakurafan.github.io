@@ -16,10 +16,10 @@ All the codes are released under MIT license, which means:
 
 * Danping Liao, Yuntao Qian, Yuan Yan Tang:
 	Constrained Manifold Learning for Hyperspectral Imagery Visualization. 
-	IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. In print. (2017)
+	IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. In press. (2017)
 
 * Danping Liao, Yuntao Qian:
-	Paper evolution graph: multi-view structural retrieval for academic literature. Frontiers of Information Technology & Electronic Engineering. In print. (2017)
+	Paper evolution graph: multi-view structural retrieval for academic literature. Frontiers of Information Technology & Electronic Engineering. In press. (2017)
 
 * Peng Peng, Danping Liao, Ze-Nian Li:
 	An efficient temporal distortion measure of videos based on spacetime texture. Pattern Recognition 70: 1-11 (2017)
